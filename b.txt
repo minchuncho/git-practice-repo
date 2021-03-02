@@ -1,2 +1,2 @@
-this is file b. hehe
-need more extra info, please refer to...
+this is file b. hehe.
+number+number of lines and then 'dd' you can delete the lines you assigned.
